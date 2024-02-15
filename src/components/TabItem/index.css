@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+.tab-button {
+  border-width: 0px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #7b8794;
+  background-color: transparent;
+}
